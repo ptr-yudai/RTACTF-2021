@@ -1,0 +1,8 @@
+id: alloca
+name: alloca
+category: pwn
+description: |
+  Can we use a variable for the size of a local array?
+  ローカル変数の配列のサイズに変数って使えるんですか？
+flag: RTACON{alloca_w0rks_d1ff3r3ntly_fr0m_malloc_f0r_n3g4t1v3_s1z3}
+author: ptr-yudai
