@@ -1,0 +1,8 @@
+id: Neighbor RSA
+name: Neighbor RSA
+category: crypto
+description: |
+  Neighbor RSA is an RSA scheme with the private key made with your neighbor.<br>
+  お隣さんと秘密鍵を作ったRSA暗号をNeighbor RSAと呼びます。
+flag: RTACON{1nt3nd3d_s0lut10n_1s_Approximate_GCD_:pray:}
+author: ptr-yudai

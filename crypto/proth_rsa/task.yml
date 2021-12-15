@@ -1,0 +1,8 @@
+id: Proth RSA
+name: Proth RSA
+category: crypto
+description: |
+  Proth RSA is an RSA scheme invented by Francois Proth in the 19th century.<br>
+  フランソワ・プロスが19世紀に発明したRSA暗号をProth RSAと呼びます。
+flag: RTACON{d1d_U_us3_th3_p0w3r_0f_Groebner_basis?}
+author: ptr-yudai

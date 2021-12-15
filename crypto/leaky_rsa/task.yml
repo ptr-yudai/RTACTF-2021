@@ -1,0 +1,8 @@
+id: Leaky RSA
+name: Leaky RSA
+category: crypto
+description: |
+  Leaky RSA is an RSA scheme whose private key is partially leaked but is still considered secure.<br>
+  秘密鍵が多少漏洩しても安全と考えられているRSA暗号をLeaky RSAと呼びます。<br>
+flag: RTACON{C0pp3rsm1th_h3r3_4nd_th3r3_4nd_3v3rywh3r3}
+author: ptr-yudai
