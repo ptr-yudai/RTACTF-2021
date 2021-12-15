@@ -1,0 +1,8 @@
+id: noalloca
+name: noalloca
+category: pwn
+description: |
+  Don't worry, I'm careful of buffer overflow.<br>
+  大丈夫バッファオーバーフローには気を付けたから。
+flag: RTACON{1nt3g3r_oOoOoOv3rfloOoOoOw}
+author: ptr-yudai
