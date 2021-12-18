@@ -3,6 +3,8 @@ name: noalloca
 category: pwn
 description: |
   Don't worry, I'm careful of buffer overflow.<br>
-  大丈夫バッファオーバーフローには気を付けたから。
+  大丈夫バッファオーバーフローには気を付けたから。<br>
+  <code>nc 133.242.227.104 9991</code>
+est: 300
 flag: RTACON{1nt3g3r_oOoOoOv3rfloOoOoOw}
 author: ptr-yudai

@@ -1,14 +1,14 @@
 version: '3'
 services:
-  alloca:
+  noalloca:
     build:
       context: .
     working_dir: /home/pwn
-    container_name: alloca
+    container_name: noalloca
     ulimits:
       nproc: 65535
       core: 0
     ports:
-      - "9992:9999"
+      - "9991:9999"
     entrypoint: /etc/init.sh
     restart: always

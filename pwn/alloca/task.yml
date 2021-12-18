@@ -3,6 +3,8 @@ name: alloca
 category: pwn
 description: |
   Can we use a variable for the size of a local array?<br>
-  ローカル変数の配列のサイズに変数って使えるんですか？
+  ローカル変数の配列のサイズに変数って使えるんですか？<br>
+  <code>nc 133.242.227.104 9992</code>
+est: 480
 flag: RTACON{alloca_w0rks_d1ff3r3ntly_fr0m_malloc_f0r_n3g4t1v3_s1z3}
 author: ptr-yudai

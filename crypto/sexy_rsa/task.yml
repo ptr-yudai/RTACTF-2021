@@ -4,5 +4,6 @@ category: crypto
 description: |
   Sexy RSA is an RSA scheme with a sexy private key.<br>
   秘密鍵がセクシーなRSA暗号をSexy RSAと呼びます。
+est: 300
 flag: RTACON{n3v3r_us3_sp3c14l_p41r_0f_pr1m3s_4_RSA}
 author: ptr-yudai

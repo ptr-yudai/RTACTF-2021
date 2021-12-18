@@ -3,6 +3,8 @@ name: constalloca
 category: pwn
 description: |
   Calling alloca with a constant argument is secure. Wait, what is alloca for?<br>
-  allocaの引数に定数を渡せば安全ですね。いや、何のためのallocaだよ。
+  allocaの引数に定数を渡せば安全ですね。いや、何のためのallocaだよ。<br>
+  <code>nc 133.242.227.104 9993</code>
+est: 600
 flag: RTACON{0ff-by-nu11_Tr4g1c_:doge:}
 author: ptr-yudai
