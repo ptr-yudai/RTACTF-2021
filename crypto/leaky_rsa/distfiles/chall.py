@@ -10,7 +10,7 @@ if __name__ == '__main__':
     q = getPrime(500)
     n = p*p*q*q
     e = 65537
-    s = ((p**3 - 20211218*q) * inverse(p*p+q*q,n)) % n # tekitou (ha?)
+    s = ((p**3 - 20211219*q) * inverse(p*p+q*q,n)) % n # tekitou (ha?)
 
     # Encryption
     c = pow(m, e, n)

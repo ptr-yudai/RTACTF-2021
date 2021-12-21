@@ -2,7 +2,7 @@ with open("../distfiles/output.txt", "r") as f:
     exec(f.read())
 
 P.<x> = PolynomialRing(Zmod(n))
-f = (s*x + 20211218).monic()
+f = (s*x + 20211219).monic()
 
 kbits = 512
 sol = f.small_roots(X=1<<kbits, beta=0.3)
